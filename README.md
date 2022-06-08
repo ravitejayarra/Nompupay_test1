@@ -35,6 +35,8 @@ Enter your countryCode :
   Applicable Income Tax : 75000.0    ---------------------  Answer
   
   
+  
+---------------------------------------------------
 
 
 2.Welcome to the Tax International Tax Calculator
