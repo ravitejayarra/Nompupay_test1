@@ -23,9 +23,13 @@ after that
 
 
 1 . Welcome to the Tax International Tax Calculator
+
 Enter your CTC : 
+
 1000000
+
 Enter your countryCode : 
+
 +91
 
   Applicable Income Tax : 75000.0    ---------------------  Answer
@@ -34,9 +38,13 @@ Enter your countryCode :
 
 
 2.Welcome to the Tax International Tax Calculator
+
 Enter your CTC : 
+
 164900
+
 Enter your countryCode : 
+
 +1
 
   Applicable Income Tax : 33597.0   -------------------     Answer
