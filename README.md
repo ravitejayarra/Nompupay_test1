@@ -13,7 +13,7 @@ inside eclipse ide
 
 after that 
 
-4.  sr/main/java  => com.taxCalculator.NomuPay => App.java 
+4.  src/main/java  => com.taxCalculator.NomuPay => App.java 
 
 5. right click on file  => Run As => Java Application
 
